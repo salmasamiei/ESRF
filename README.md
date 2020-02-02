@@ -1,4 +1,4 @@
-# ESRF-2020 (Hands on session)
+# ESRF-2020 (Tutorial T5 Hands-on session)
 ## UNET Semantic Segmentation 
 
 
